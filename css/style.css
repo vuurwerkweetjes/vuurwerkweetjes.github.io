@@ -1,0 +1,40 @@
+body {
+	padding: 0px;
+	margin: 0px;
+	font-size: 14px;
+	color: #888;
+}
+
+.menu {
+	text-align: center;
+	padding: 25px;
+}
+
+.banner {
+	background: url('../img/banner.jpg');
+	color: #ffffff;
+	font-size: 75px;
+	padding: 25px;
+	text-align: center;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+.content {
+	max-width: 1000px;
+	margin: 0px auto;
+	padding: 10px;
+}
+
+.link   {
+	text-align: center;
+	padding: 10px;
+}
+
+.footer {
+	text-align: center;
+	padding: 10px;
+}
+
+a {
+	color: #888;
+}
