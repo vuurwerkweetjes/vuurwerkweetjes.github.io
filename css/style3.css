@@ -13,13 +13,13 @@ body {
 .banner {
 	background-image: url('../img/vuurwerkregels.jpg');
 	height: 250px;
-	max-width: 1000px;
+	max: 100%;
 	color: #ffffff;
 	font-size: 75px;
 	padding: 25px;
 	text-align: center;
 	font-family: "Comic Sans MS", cursive, sans-serif;
-	background-position: auto;
+	background-position: center;
 	background-size: auto;
 	position: relative;
 }
