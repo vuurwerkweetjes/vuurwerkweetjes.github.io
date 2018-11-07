@@ -12,10 +12,10 @@ body {
 
 .banner {
 	background: url('../img/vuurwerkregels.jpg');
+	max-width: 1000px;
 	height: 250px;
 	margin: 0px auto;
-	padding: 25px;
-	
+	padding: 25px;	
 }
 
 .content {
