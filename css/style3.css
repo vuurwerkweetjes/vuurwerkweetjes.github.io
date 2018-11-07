@@ -13,10 +13,9 @@ body {
 .banner {
 	background: url('../img/vuurwerkregels.jpg');
 	height: 250px;
-	color: #ffffff;
+	margin: 0px auto;
 	padding: 25px;
-	text-align: center;
-	font-family: "Comic Sans MS", cursive, sans-serif;
+	
 }
 
 .content {

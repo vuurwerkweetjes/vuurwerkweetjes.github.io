@@ -12,11 +12,7 @@ body {
 
 .banner {
 	background: url('../img/banner2.jpg');
-	height: 250px;
-	color: #ffffff;
-	padding: 25px;
-	text-align: center;
-	font-family: "Comic Sans MS", cursive, sans-serif;
+	
 }
 
 .content {
