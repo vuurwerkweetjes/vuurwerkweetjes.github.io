@@ -1,0 +1,41 @@
+body {
+	padding: 0px;
+	margin: 0px;
+	font-size: 14px;
+	color: #888;
+}
+
+.menu {
+	text-align: center;
+	padding: 25px;
+}
+
+.banner {
+	background: url('../img/banner4.jpg');
+	height: 200px;
+	width: auto;
+	margin: 0px auto;
+	padding: 45px;
+	background-position: center;
+	background-size: 100% 100%;
+}
+
+.content {
+	max-width: 1000px;
+	margin: 0px auto;
+	padding: 10px;
+}
+
+.link   {
+	text-align: center;
+	padding: 10px;
+}
+
+.footer {
+	text-align: center;
+	padding: 10px;
+}
+
+a {
+	color: #888;
+}
