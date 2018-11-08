@@ -36,6 +36,10 @@ body {
 	padding: 10px;
 }
 
+.counter {
+	text-align: center;
+}
+
 a {
 	color: #888;
 }
