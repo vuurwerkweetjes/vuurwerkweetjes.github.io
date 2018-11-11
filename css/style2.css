@@ -26,9 +26,18 @@ body {
 	padding: 10px;
 }
 
-.link   {
-	text-align: center;
-	padding: 10px;
+.instagram {
+	width: 30px;
+	float: center;
+	margin-left: 750px;
+	margin-right: 10px;
+}
+
+.youtube {
+	width: 35px;
+	float: center;
+	margin-left: 90px;
+	margin-right: 10px;
 }
 
 .footer {
