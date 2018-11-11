@@ -26,21 +26,18 @@ body {
 	padding: 10px;
 }
 
-.instagram {
-	width: 30px;
-	float: center;
-	margin-left: 400px;
-	margin-right: 10px;
-}
-
-.youtube {
-	width: 35px;
-	float: center;
-	margin-left: 20px;
-	margin-right: 10px;
+.center {
+	display: block;
+	margin: 0 auto 0 auto;
+	vertical-align: middle;
 }
 
 .footer {
+	text-align: center;
+	padding: 10px;
+}
+
+.link   {
 	text-align: center;
 	padding: 10px;
 }
