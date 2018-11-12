@@ -21,21 +21,42 @@ body {
 }
 
 .content {
+	min-height: 100%	
 	max-width: 1000px;
 	margin: 0px auto;
-	padding: 10px;
+	padding-left: 200px;
+	padding-right: 200px;
+	padding-bottom:330px;
 }
 
-.link   {
-	text-align: center;
-	padding: 10px;
-}
-
-.footer {
-	text-align: center;
-	padding: 10px;
-}
 
 a {
 	color: #888;
+
+}
+
+footer nav {
+	float: center;
+}
+
+footer nav u1 {
+}
+
+footer nav u1 li {
+	display: inline-block;
+	margin-left: 20px;
+	list-style: none;
+}
+
+footer nav u1 li a {
+	font-family: Lato;
+	font-weight: 400;
+	font size: 14px;
+}
+
+footer {  
+	height: 200px;
+        width: 100%;
+        background-color: #222;
+	text-align: center;
 }
