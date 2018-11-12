@@ -6,7 +6,8 @@ body {
 	background-image: url('../img/pyro freak.jpg');
 	background-repeat: no-repeat;
 	background-size: 300px;
-	background-position: 800px 400px;
+	background-position: 0 auto 0 auto;
+	color: #888;
 }
 
 .menu {
@@ -56,6 +57,7 @@ footer nav u1 li a {
 	font-family: Lato;
 	font-weight: 400;
 	font size: 14px;
+	font-color: #ffffff;
 }
 
 footer {  
