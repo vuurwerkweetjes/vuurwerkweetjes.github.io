@@ -1,12 +1,8 @@
 body {
         height: 100%
 	padding: 0px;
-	margin: 0px;
+	margin: 0px auto;
 	font-size: 14px;
-	background-image: url('../img/pyro freak.jpg');
-	background-repeat: no-repeat;
-	background-size: 300px;
-	background-position: 0 auto 0 auto;
 	color: #888;
 }
 
